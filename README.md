@@ -10,6 +10,7 @@
 3- Boxplot shows that the "Bombay" & "Horoz" classes are distinct from other classes and that there are some minimal outliers in some features.\
 4- The Pearson linear correlation shows that there are lots of highly correlated features.
 
+
 **Dataset Used:** [Dry bean Dataset](https://archive.ics.uci.edu/ml/datasets/Dry+Bean+Dataset)
 
 | Number of Instances:  | 13000  |
